@@ -1,6 +1,6 @@
 [![MasterHead](https://trisya.com/myimg/child/Website%20Design.gif)
 <h1 align="center">Hi 👋, I'm Ankita Tribhuvan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Front-End Web Developer From India</h3>
 <img align="right" alt="coding"width="400" src="https://camo.githubusercontent.com/4200413d54baa2cf1b89386052143acb0e89248c3d74d907fe021682cca12376/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39642f63622f33362f39646362333635373964343531386233313435313930363436366463373335642e676966">
 
 
