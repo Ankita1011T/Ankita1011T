@@ -1,7 +1,7 @@
-[![MasterHead](https://media.licdn.com/dms/image/C561BAQGpxRlo9gp3cQ/company-background_10000/0/1548686474966/withel_cover?e=1698948000&v=beta&t=aMCMWJLVFm-t1sIg8kgbcGnKbAFvbaYCX_RbCIlHNnw)
+[![MasterHead](https://pixabay.com/illustrations/social-media-digitization-digital-2786261/)
 <h1 align="center">Hi 👋, I'm Ankita Tribhuvan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding"width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<img align="right" alt="coding"width="300" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankita1011t&label=Profile%20views&color=0e75b6&style=flat" alt="ankita1011t" /> </p>
 
 - 📫 How to reach me **ankitatribhuvan6@gmail.com**
