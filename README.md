@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Front-End Web Development**
 
-- 📫 How to reach me **ankitatribhuvan6@gmail.com**
+- 📫 How to reach me **ankitatribhuvan4@gmail.com**
 
 
 <p align="left">
